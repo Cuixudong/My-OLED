@@ -1,6 +1,8 @@
 # My-OLED
 自己设计的OLED模块，极简风格
 
+视频演示效果：https://www.bilibili.com/video/BV1Hb4y1Q7fu/
+
 ![003b2b819142e263649f0cbb48065c41bb0ab78e](https://user-images.githubusercontent.com/23308519/147310695-18383f98-6ccf-4a5e-967e-97e71779af8b.jpg)
 
 
